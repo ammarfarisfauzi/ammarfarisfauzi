@@ -5,7 +5,7 @@
 
 <p align="left">I am a passionate Mobile Front-End Developer adn Ui/Ux Designer specializing in Java, Flutter, React Native, and figma.</p>
 
-- ✨ Student  /ᐠ｡ꞈ｡ᐟ\
+- ✨ Student /ᐠ｡ꞈ｡ᐟ\
 - 🌱 I’m currently learning Python.
 - 📫 How to reach farisfauzi444@gmail.com
 - ⚡ Fun Fact I like all kinds of coffee drinks
