@@ -3,7 +3,7 @@
 *Developer / Programmer*
 <br /> 
 
-<p align="left">I am a passionate Mobile Front-End Developer adn Ui/Ux Designer specializing in Java, Flutter, React Native, and figma.</p>
+<p align="left">I am a passionate Mobile Front-End Developer and Ui/Ux Designer specializing in Java, Flutter, React Native, and figma.</p>
 
 - ✨ Student /ᐠ｡ꞈ｡ᐟ\
 - 🌱 I’m currently learning Python.
