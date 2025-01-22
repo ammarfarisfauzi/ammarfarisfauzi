@@ -21,19 +21,13 @@
 
 <h3>🎧 Now Playing</h3>
 
-<br />
-
 [![Spotify](https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?background_color=0d1117&show_offline&border_color=ffffff)](https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=96706891c1af4af4)
 
 <h3>⚡ Languages and Tools</h3>
 
-<br />
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,laravel,flutter,dart,vscode,figma,firebase,postman,stackoverflow,github,mint)](https://skillicons.dev)
 
-<h3>⏲️ This week I spent time on...</h3>
-
-<br>
+<h3>📅 This week I spent time on</h3>
 
 <!--START_SECTION:waka-->
 
