@@ -31,8 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   10 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜   66.19 %
-YAML   5 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
